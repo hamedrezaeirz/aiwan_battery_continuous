@@ -1,0 +1,8 @@
+{
+  "learning_rate": 0.001,
+  "gamma": 0.99,
+  "log_std_init": 0.0,
+  "lambda_battery_a": 1.0,
+  "gate_k": 0.2,
+  "gate_b_mid": 40.0
+}
